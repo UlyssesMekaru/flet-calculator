@@ -2,8 +2,7 @@
 
 A desktop calculator built with Python and [Flet](https://flet.dev), styled after the iPhone calculator.
 
-<!-- To add a screenshot: save it as screenshot.png in this folder and uncomment the line below -->
-<!-- ![Calculator screenshot](screenshot.png) -->
+![Calculator screenshot](screenshot.png)
 
 ## Features
 
